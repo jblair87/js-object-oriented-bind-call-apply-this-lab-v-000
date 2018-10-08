@@ -1,4 +1,6 @@
-function justInvoke(){}
+function justInvoke(fn){
+  return 
+}
 function setThisWithCall(returnsThisAndArgs, bob, age){
   justInvoke.call(returnsThisAndArgs, bob, age);
   this.age = age;
