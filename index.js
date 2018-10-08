@@ -1,5 +1,5 @@
 function justInvoke(){}
-function setThisWithCall(fn, thisValue, arg){
+function setThisWithCall(returnsThisAndArgs, bob, 18){
   justInvoke.call(fn, thisValue, arg);
   this.age = age;
   this.hairColor = hairColor;
