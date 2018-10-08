@@ -1,4 +1,4 @@
 function justInvoke(){}
-function setThisWithCall(returnsThisAndArgs, bob, 18){}
+function setThisWithCall(age, hairColor){}
 function setThisWithApply(){}
 function returnNewFunctionOf(){}
