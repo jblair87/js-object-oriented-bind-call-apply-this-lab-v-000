@@ -1,4 +1,6 @@
 function justInvoke(){}
-function setThisWithCall(age, hairColor){}
+function setThisWithCall(fn, thisValue, arg){
+  
+}
 function setThisWithApply(){}
 function returnNewFunctionOf(){}
