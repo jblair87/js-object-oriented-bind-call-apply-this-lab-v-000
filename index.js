@@ -4,7 +4,7 @@ function setThisWithCall(fn, thisValue, arg){
   this.age = age;
   this.hairColor = hairColor;
 }
-console.log(new setThisWithCall('Bob', 5).name);
+console.log(new setThisWithCall('Bob', 18).name);
 
 function setThisWithApply(){}
 function returnNewFunctionOf(){}
