@@ -1,1 +1,4 @@
-//Your code here
+function justInvoke(){}
+function justInvoke(){}
+function justInvoke(){}
+function justInvoke(){}
